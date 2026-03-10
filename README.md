@@ -130,7 +130,7 @@ README.md
 Clone the repository
 git clone
 
-https://github.com/Johnkristane/rag-document-qa-langchain-gemini.git
+https://github.com/yourusername/rag-document-qa.git
 
 cd rag-document-qa
 
