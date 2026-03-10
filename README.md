@@ -130,7 +130,7 @@ README.md
 Clone the repository
 git clone
 
-https://github.com/yourusername/rag-document-qa.git
+https://github.com/Johnkristane/rag-document-qa-langchain-gemini.git
 
 cd rag-document-qa
 
@@ -264,6 +264,7 @@ Sunil Kumar Nallabothula
 AI Engineer | Data Scientist | GenAI Engineer
 
 ---
+
 
 
 
